@@ -8,7 +8,7 @@ public class ConexionDB {
 
     private static final String URL = "jdbc:mysql://localhost:3306/integrador_cac";
     private static final String USER = "root";
-    private static final String PASSWORD = "admin";
+    private static final String PASSWORD = "";
 
 //    Bloque Estático (static {}):
 //    Un bloque estático es una sección de código que se ejecuta solo una vez, cuando la clase es cargada por el ClassLoader de Java.
